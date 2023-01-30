@@ -24,4 +24,4 @@ Os principais campos são ID e CPF. ID sempre é estabelecido como PK e o CPF fi
 
 - **Como essas entidades estão relacionadas?**
 
-As entidades possuem relacionamentos **1:1** e **n:n**.
+As entidades possuem relacionamentos **1:n** e **n:n**.
