@@ -25,3 +25,14 @@ Os principais campos são ID e CPF. ID sempre é estabelecido como PK e o CPF fi
 - **Como essas entidades estão relacionadas?**
 
 As entidades possuem relacionamentos **1:n** e **n:n**.
+
+&nbsp;
+
+## Ferramentas
+
+Utilizei o **MySQL Workbench** para a criação do script do banco de dados e o **dbdiagram.io** para a criação do diagrama lógico.
+
+![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+
+#
+![](http://img.shields.io/static/v1?label=STATUS&message=COMPLETO&color=GREEN&style=for-the-badge)
